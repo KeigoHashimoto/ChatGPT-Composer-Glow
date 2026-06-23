@@ -4,6 +4,11 @@
   "short_name": "Composer Glow",
   "description": "Adds subtle, privacy-friendly visual state cues to the ChatGPT composer and responses.",
   "version": "1.0.0",
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
   "permissions": [],
   "content_scripts": [
     {
